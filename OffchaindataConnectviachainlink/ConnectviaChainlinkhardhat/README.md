@@ -1,10 +1,8 @@
-<br/>
-<p align="center">
-<a href="https://chain.link" target="_blank">
-<img src="./box-img-lg.png" width="225" alt="Chainlink Hardhat logo">
-</a>
-</p>
-<br/>
+Chainlink: We are connecting offchain data from object detection app (please visit the video {screen capture without sound.mov} at https://drive.google.com/drive/folders/1bbHDoY1Y80EOeJP32XDngShnSjkMR55m ) to our smart contracts using Chainlink. 
+
+Please visit: 
+https://github.com/seetadev/Ether-Responder/tree/main/OffchaindataConnectviachainlink/ConnectviaChainlinkhardhat
+https://github.com/seetadev/Ether-Responder/tree/main/awschanlinkformetadata/chainlinkpythononaws
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/smartcontractkit/hardhat-starter-kit)
 
