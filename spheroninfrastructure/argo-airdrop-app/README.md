@@ -1,14 +1,5 @@
-<p align="center">
-  <a href="https://argoapp.live/">
-    <a href="https://imgur.com/J5O9d2O"><img src="https://i.imgur.com/J5O9d2O.png" title="source: imgur.com" alt="ArGo logo (light version)" width="210" /></a>
-  </a>
-
-  <h3 align="center">ArGo Airdrop App</h3>
-
-  <p align="center">
-   💎 ArGo airdrop app for claiming $ARGO tokens.
- </p>
-</p>
+Spheron: We are developing decentralized monitoring and incident management user interface with Spheron. 
+Please visit: https://github.com/seetadev/Ether-Responder/tree/main/spheroninfrastructure
 
 > Important Notice: ArGo is in its Beta stage. If you have a suggestion, idea, or find a bug, please report it! The ArGo team will not be held accountable for any funds lost.
 
