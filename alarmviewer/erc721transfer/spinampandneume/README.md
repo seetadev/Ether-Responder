@@ -1,3 +1,11 @@
+We are utilizing ZoraModuleManager, and ZoraProtocolFeeSettings in our our dapp and deploying it on Polygon after registering the Zora market module. We are developing a crowdsourcing marketplace using Zora's auction house template for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control. We are using the zora starter kit to access ZORA API, Creator Toolkit, and Marketplace Hyperstructure. Zora's Auction House template is being utilized for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. We are using DAOtooling for coordination with a social focus around community collaboration for road incidents and alarms.
+
+https://github.com/seetadev/Ether-Responder/tree/main/alarmviewer
+
+Please find the video at https://drive.google.com/drive/folders/1bbHDoY1Y80EOeJP32XDngShnSjkMR55m (screencapturewithoutsound.mov file)
+
+We are also using it for decentralized social sharing and road counselling at incident spot (please visit roadcounselingatincidents.mov)
+
 # web3-music-subgraph
 
 This is a fork of Spinamp's web3-music-subgraph that aggregates various web3 music platforms. The goal is to aggregate all web3 music into a single, highly normalized and queryable schema. 
