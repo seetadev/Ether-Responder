@@ -1,5 +1,4 @@
-Demo Dapp
-=========
+Sequence Wallet: We are utilizing Sequence wallet for handling toll ticket payments for vehicles and maintenance/service payments on top of expenses claimed for getting the requisite driving licenses. It is our go to wallet for handling interstate payments and third party payments like payments to government license regulators, repair providers. Please visit: https://github.com/seetadev/Ether-Responder/tree/main/SequenceQuickSwaptollticketmaster We also plan to integrate QuickSwap with Sequence wallet to ensure that the vehicle owners or drivers can swap the tokens if needed at the time of service/repair or even getting license from regulators.
 
 Dapp example on how to use Sequence Wallet. Covers how to connect, sign messages and send transctions.
 
