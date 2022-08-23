@@ -1,8 +1,6 @@
-# Fluence JS
+Fluence Network: We are using the fluence-js peer implementation in Typescript to connect with our ionic apps which uses typescript as the core for handling application logic. We are using Fluence Network as the Web3 cloud computing provider.
 
-[![npm](https://img.shields.io/npm/v/@fluencelabs/fluence)](https://www.npmjs.com/package/@fluencelabs/fluence)
-
-Official TypeScript implementation of the Fluence Peer.
+Please visit: https://github.com/seetadev/Ether-Responder/tree/main/fluenceweb3cloud/fluencepeer-js
 
 ## Getting started
 
