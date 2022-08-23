@@ -44,3 +44,24 @@ https://github.com/seetadev/Ether-Responder/tree/main/alarmviewer
 Please find the video at https://drive.google.com/drive/folders/1bbHDoY1Y80EOeJP32XDngShnSjkMR55m (screencapturewithoutsound.mov file)
 
 We are also using it for decentralized social sharing and road counselling at incident spot (please visit roadcounselingatincidents.mov)
+
+Spheron: We are developing decentralized monitoring and incident management user interface with Spheron. 
+Please visit: https://github.com/seetadev/Ether-Responder/tree/main/spheroninfrastructure
+
+AWS: We are using AWS S3 for metadata and pdf data, EC2 for tornado + nginx deployment with AWS S3 db (please visit the key workflow apps with AWS backend: 
+http://aspiringapps.com/web/home/driving-logbook.html
+http://aspiringapps.com/web/home/auto-mileage.html
+http://aspiringapps.com/web/home/atv-bill.html ) 
+Please visit: https://github.com/seetadev/Ether-Responder/tree/main/awschanlinkformetadata/chainlinkpythononaws and 
+https://github.com/seetadev/Ether-Responder/tree/main/BillingTool
+
+
+Chainlink: We are connecting offchain data from object detection app (please visit the video {screen capture without sound.mov} at https://drive.google.com/drive/folders/1bbHDoY1Y80EOeJP32XDngShnSjkMR55m ) to our smart contracts using Chainlink. Please visit: https://github.com/seetadev/Ether-Responder/tree/main/OffchaindataConnectviachainlink/ConnectviaChainlinkhardhat
+
+
+Fluence Network: We are using the fluence-js peer implementation in Typescript to connect with our ionic apps which uses typescript as the core for handling application logic. We are using Fluence Network as the Web3 cloud computing provider.
+
+Please visit: https://github.com/seetadev/Ether-Responder/tree/main/fluenceweb3cloud/fluencepeer-js
+
+
+Sequence Wallet: We are utilizing Sequence wallet for handling renting payments for drones and maintenance/service payments on top of expenses claimed for getting the requisite flying licenses. It is our go to wallet for handling regional payments and third party payments like payments to government license regulators, repair providers. Please visit: https://github.com/seetadev/Ether-Responder/tree/main/SequenceQuickSwaptollticketmaster We also plan to integrate QuickSwap with Sequence wallet to ensure that the drone pilots can swap the tokens if needed at the time of service/repair or even getting flying license from regulators.
