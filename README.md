@@ -35,3 +35,12 @@ Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from 
 NFT.Storage: We are using NFT.Storage for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident. Please find the video at https://drive.google.com/drive/folders/1bbHDoY1Y80EOeJP32XDngShnSjkMR55m (screencapturewithoutsound.mov file). We are storing Alarm metadata using NFT.Storage. Also, Saving/deleting alarm metadata and image to/from IPFS using NFT.Storage. We are also storing the hash returned from IPFS to Ethereum test network using NFT.Storage. Further we are using NFT.Storage for: Video analytics configuration using NFT.Storage; Camera Management: Add/edit/delete cameras with integration with Livepeer, NFT.Storage; Live streaming with Object Detection Video Analytics using Livepeer for streaming, and NFT.Storage for snapshots.
 
 https://github.com/seetadev/Ether-Responder/tree/main/incidentandalarmstorage
+
+
+We are utilizing ZoraModuleManager, and ZoraProtocolFeeSettings in our our dapp and deploying it on Polygon after registering the Zora market module. We are developing a crowdsourcing marketplace using Zora's auction house template for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control. We are using the zora starter kit to access ZORA API, Creator Toolkit, and Marketplace Hyperstructure. Zora's Auction House template is being utilized for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. We are using DAOtooling for coordination with a social focus around community collaboration for road incidents and alarms.
+
+https://github.com/seetadev/Ether-Responder/tree/main/alarmviewer
+
+Please find the video at https://drive.google.com/drive/folders/1bbHDoY1Y80EOeJP32XDngShnSjkMR55m (screencapturewithoutsound.mov file)
+
+We are also using it for decentralized social sharing and road counselling at incident spot (please visit roadcounselingatincidents.mov)
