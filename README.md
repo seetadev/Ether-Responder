@@ -59,12 +59,15 @@ Please visit: https://github.com/seetadev/Ether-Responder/tree/main/awschanlinkf
 https://github.com/seetadev/Ether-Responder/tree/main/BillingTool
 
 
-Chainlink: We are connecting offchain data from object detection app (please visit the video {screen capture without sound.mov} at https://drive.google.com/drive/folders/1bbHDoY1Y80EOeJP32XDngShnSjkMR55m ) to our smart contracts using Chainlink. Please visit: https://github.com/seetadev/Ether-Responder/tree/main/OffchaindataConnectviachainlink/ConnectviaChainlinkhardhat
+Chainlink: We are connecting offchain data from object detection app (please visit the video {screen capture without sound.mov} at https://drive.google.com/drive/folders/1bbHDoY1Y80EOeJP32XDngShnSjkMR55m ) to our smart contracts using Chainlink. 
 
+Please visit: 
+https://github.com/seetadev/Ether-Responder/tree/main/OffchaindataConnectviachainlink/ConnectviaChainlinkhardhat
+https://github.com/seetadev/Ether-Responder/tree/main/awschanlinkformetadata/chainlinkpythononaws
 
 Fluence Network: We are using the fluence-js peer implementation in Typescript to connect with our ionic apps which uses typescript as the core for handling application logic. We are using Fluence Network as the Web3 cloud computing provider.
 
 Please visit: https://github.com/seetadev/Ether-Responder/tree/main/fluenceweb3cloud/fluencepeer-js
 
 
-Sequence Wallet: We are utilizing Sequence wallet for handling renting payments for drones and maintenance/service payments on top of expenses claimed for getting the requisite flying licenses. It is our go to wallet for handling regional payments and third party payments like payments to government license regulators, repair providers. Please visit: https://github.com/seetadev/Ether-Responder/tree/main/SequenceQuickSwaptollticketmaster We also plan to integrate QuickSwap with Sequence wallet to ensure that the drone pilots can swap the tokens if needed at the time of service/repair or even getting flying license from regulators.
+Sequence Wallet: We are utilizing Sequence wallet for handling toll ticket payments for vehicles and maintenance/service payments on top of expenses claimed for getting the requisite driving licenses. It is our go to wallet for handling interstate payments and third party payments like payments to government license regulators, repair providers. Please visit: https://github.com/seetadev/Ether-Responder/tree/main/SequenceQuickSwaptollticketmaster We also plan to integrate QuickSwap with Sequence wallet to ensure that the vehicle owners or drivers can swap the tokens if needed at the time of service/repair or even getting license from regulators.
