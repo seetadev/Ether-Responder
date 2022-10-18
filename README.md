@@ -14,7 +14,7 @@ The decentralized Cloud-Connected Car Drives IoT Monetization. Real-time access 
 
 We have developed a road incident management system using Javascript, HTML5, SAP's UI5 on the front end using open source AWS video streaming system and crowdsourcing marketplace enabled by Sequence Wallet and Spheron for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control powered by Ethercalc (SocialCalc), Polygon, NFTPorts for infrastructure and access of data from Polygon blockchains, NFT.Storage, Lit protocol for security and neume for data retrieval and at the road incident spot for better coordination and immediate action.
 
-
+Coinex Smart Chain: https://github.com/seetadev/Ether-Responder/tree/main/CoinexCSC-Audit
 
 
 How it works:
